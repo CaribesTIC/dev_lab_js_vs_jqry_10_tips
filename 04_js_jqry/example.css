@@ -1,0 +1,16 @@
+.square {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.red {
+    background-color: red;
+}
+
